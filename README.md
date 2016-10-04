@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project was created for the practice in Thinknetica.
 
-Things you may want to cover:
+Developed and tested:
 
-* Ruby version
+* Ruby 2.2.4p230 (2015-12-16 revision 53155)
 
-* System dependencies
+* Rails 5.0.0.1
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
